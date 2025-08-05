@@ -56,7 +56,8 @@ This project laid the foundation for exploring sensor integration and environmen
 ## 👨‍💻 Contributors
 
 - [Tejashvi Raj](https://www.linkedin.com/in/tejashviraj19/)
-- Ayush Billore
+- [Ayush Billore](https://www.linkedin.com/in/ayush-billore-aaab49251/)
+
 
 ---
 
