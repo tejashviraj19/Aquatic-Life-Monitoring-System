@@ -39,7 +39,11 @@ All data is displayed on an **LED screen** for easy observation.
 
 ## 📷 Preview
 
-*(Insert your demo video/screenshots here)*
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/2f88d9e9-b7a5-497d-8f00-da2dd83fda45" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/24d4f9ed-cb01-499b-96cf-6acadb3c443c" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/d6090543-cb3f-4167-8e4c-b900e0fa4786" />
+
+
 
 ---
 
@@ -59,8 +63,3 @@ This project laid the foundation for exploring sensor integration and environmen
 ## 🔗 More Details
 
 Visit: [linkedin.com/in/tejashviraj19/details/projects](https://www.linkedin.com/in/tejashviraj19/details/projects/)
-
----
-
-## 📁 Folder Structure (suggested)
-
